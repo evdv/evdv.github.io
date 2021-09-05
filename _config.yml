@@ -27,7 +27,7 @@ github_username:  evdv
 # Build settings
 markdown: kramdown
 highlighter: rouge
-paginate: 5
+paginate: 3
 theme: null # was minima
 plugins:
   - jekyll-feed
@@ -43,7 +43,7 @@ defaults:
     values:
       is_post: true
       layout: post
-      permalink: /blog/:categories/:title/
+      permalink: /posts/:categories/:title/
   -
     scope:
       type: pages
