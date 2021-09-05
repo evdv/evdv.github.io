@@ -4,10 +4,14 @@ title: Contact
 permalink: /contact
 ---
 
-## Contact
+## I would love to hear from you
 
-Get in touch!
+Please feel free to get in touch with any questions, comments, or recommendations!
 
-<form>
-  <!-- Form stuff -->
-</form>
+You can reach me through any of the following:
+
+personal email
+university email
+linkedin
+twitter
+instagram

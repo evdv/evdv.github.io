@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Blog
-permalink: /blog
+permalink: /posts
 ---
 
-## My Blog Posts
+## Musings and ramblings
 
 <ul>
   {% for post in site.posts %}
