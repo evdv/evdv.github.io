@@ -14,11 +14,9 @@ personal email emelie.vdvreken [at] gmail.com
 
 university email emelie.vandevreken [at] ed.ac.uk
 
-linkedin
+LinkedIn
 
-twitter
+Twitter
 
 instagram
-<img src=url({{ site.github.url }}/assets/img/objects/information-telephone.jpg)
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+![telephone]({{ site.github.url }}/assets/img/objects/information-telephone.jpg){:height="50px" width="50px"}.
