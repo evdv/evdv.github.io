@@ -20,4 +20,4 @@ twitter
 
 instagram
 
-?[][{{ site.github.url }}/assets/img/objects/information-telephone.jpg]
+?[]({{ site.github.url }}/assets/img/objects/information-telephone.jpg)
