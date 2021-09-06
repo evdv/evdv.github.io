@@ -19,5 +19,6 @@ linkedin
 twitter
 
 instagram
-
-?[]({{ site.github.url }}/assets/img/objects/information-telephone.jpg)
+<img src=url({{ site.github.url }}/assets/img/objects/information-telephone.jpg)
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
