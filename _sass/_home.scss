@@ -11,8 +11,8 @@
   margin: 0;
   padding: 10px;
   position: absolute;
-  background-color: rgba(0, 0, 0, 0.5);
-  border: 1px solid #e0e0e0;
+  background-color: rgba(0, 0, 0, 0.6);
+  border: 1.5px solid #e0e0e0;
 }
 .featured-post h2 span {
   display: inline-block;
@@ -21,9 +21,11 @@
   letter-spacing: -1px;
   /*background: rgb(0, 0, 0);*/ /* fallback color */
   padding: 10px;
+  background-color: rgba(0, 0, 0, 0.6);
+  border: 1.5px solid #e0e0e0;
 }
 .featured-post span a {
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.6);
   /*color: #6a7575; */
 }
 .featured-post h1 {
