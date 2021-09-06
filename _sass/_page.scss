@@ -3,4 +3,19 @@
   display: block;
   margin: 10px auto 10px;
   padding: 0px 10px 10px;
+  float: right;
+}
+
+.header-image {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+}
+
+.img-responsive {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  margin: 10px auto 10px;
+  float: left;
 }

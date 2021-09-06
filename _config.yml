@@ -50,7 +50,7 @@ defaults:
       path: _pages
     values:
       is_post: false
-      layout: default
+      layout: page
 
 include: [_pages]
 # Exclude from processing.
