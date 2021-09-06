@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Jekyll"
 date:   2021-09-04 14:32:11 +0100
 categories: jekyll update
 image: wide/wide-edinburgh2.jpg
