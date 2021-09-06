@@ -20,10 +20,11 @@
   /*background: rgb(0, 0, 0);*/ /* fallback color */
   background-color: rgba(255, 0, 0, 0.5);
   padding: 10px;
-  border: 0.3px solid white;
 }
 .featured-post span a {
+  background-color: rgba(255, 0, 0, 0.5);
   color: #6a7575;
+  border: 1px solid #e0e0e0;
 }
 .featured-post h1 {
   margin: 10px;
