@@ -11,7 +11,11 @@ Please feel free to get in touch with any questions, comments, or recommendation
 You can reach me through any of the following:
 
 personal email
+
 university email
+
 linkedin
+
 twitter
+
 instagram
