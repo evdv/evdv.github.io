@@ -8,7 +8,18 @@
 }
 
 .featured-post:hover background-image{
-  opacity: 0.1;
+  opacity: 0.15;
+}
+.featured-post:hover div{
+  opacity: 0.15;
+}
+
+.div:hover {
+  opacity: 0.15;
+}
+
+.featured-image:hover {
+  opacity: 0.15;
 }
 
 .featured-post h2 {
