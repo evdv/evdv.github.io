@@ -15,7 +15,7 @@ You can reach me through any of the following:
 
 <i class="fa fa-envelope" aria-hidden="true"></i> emelie.vandevreken [at] ed.ac.uk
 
-<i class="fab fa-linkedin-in" aria-hidden="true"></i> emelievandevreken
+<i class="fa fa-linkedin" aria-hidden="true"></i> emelievandevreken
 
 <i class="fa fa-twitter" aria-hidden="true"></i> EmelieVDV
 
