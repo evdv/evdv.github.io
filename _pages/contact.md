@@ -19,3 +19,5 @@ linkedin
 twitter
 
 instagram
+
+?[][url({{ site.github.url }}/assets/img/objects/information-telephone.jpg)]
