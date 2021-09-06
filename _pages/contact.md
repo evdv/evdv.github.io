@@ -17,7 +17,7 @@ You can reach me through any of the following:
 
 <i class="fa fa-twitter" aria-hidden="true"></i> twitter link here
 
-<i class="fab fa-instagram" aria-hidden="true"></i> instagram link here
+<i class="fa fa-instagram" aria-hidden="true"></i> instagram link here
 
 You can also find me at the Bayes Centre, Edinburgh UK
 
