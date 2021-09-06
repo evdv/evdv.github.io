@@ -1,21 +1,49 @@
 .page-content {
-  max-width: 600px;
+  max-width: 400px;
   display: block;
   margin: 10px auto 10px;
   padding: 0px 10px 10px;
   float: right;
 }
 
-.header-image {
+.header-image img {
   width: 100%;
   max-width: 600px;
-  height: auto;
+  height: auto;  
 }
 
-.img-responsive {
+.img-responsive img {
   width: 100%;
-  max-width: 600px;
+  max-width: 400px;
   height: auto;
   margin: 10px auto 10px;
   float: left;
+  display: inline-flex;
+}
+
+@media (max-width: $container-width) {
+  .post-content {
+    width: 60vw;
+    display: block;
+    margin: 10px auto 10px;
+  }
+  .featured-image img {
+    align: middle;
+    margin: 5px auto 25px;
+    display: block;
+    max-width: 60vw;
+  }
+}
+@media (max-width: $tablet-width) {
+  .post-content {
+    width: 95vw;
+    display: block;
+    margin: 10px auto 10px;
+  }
+  .featured-image img {
+    align: middle;
+    margin: 5px auto 25px;
+    display: block;
+    max-width: 95vw;
+  }
 }
