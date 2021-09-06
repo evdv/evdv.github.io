@@ -9,9 +9,9 @@ permalink: /contact
 Please feel free to get in touch with any questions, comments, or recommendations!
 You can reach me through any of the following:
 
-<a href="mailto:emelie.vdvreken@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i> emelie.vdvreken [at] gmail.com</a>
+<a href="mailto:emelie.vdvreken@gmail.com" id="textlinks"><i class="fa fa-envelope" aria-hidden="true"></i> emelie.vdvreken [at] gmail.com</a>
 
-<a href="mailto:emelie.vandevreken@ed.ac.uk"><i class="fa fa-envelope" aria-hidden="true"></i> emelie.vandevreken [at] ed.ac.uk</a>
+<a href="mailto:emelie.vandevreken@ed.ac.uk" id="textlinks"><i class="fa fa-envelope" aria-hidden="true"></i> emelie.vandevreken [at] ed.ac.uk</a>
 
 <a href="https://linkedin.com/in/emelievandevreken"><i class="fa fa-linkedin" aria-hidden="true"></i> emelievandevreken</a>
 

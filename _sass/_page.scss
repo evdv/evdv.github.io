@@ -1,9 +1,13 @@
 .page-content {
-  max-width: 400px;
+  max-width: 200px;
   display: block;
   margin: 10px auto 10px;
   padding: 0px 10px 10px;
   float: right;
+}
+
+#textlinks {
+  text-decoration: none;
 }
 
 .header-image img {
@@ -23,7 +27,7 @@
 
 @media (max-width: $container-width) {
   .post-content {
-    width: 60vw;
+    width: 50vw;
     display: block;
     margin: 10px auto 10px;
   }
