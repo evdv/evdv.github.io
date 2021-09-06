@@ -10,9 +10,9 @@ Please feel free to get in touch with any questions, comments, or recommendation
 
 You can reach me through any of the following:
 
-personal email
+personal email emelie.vdvreken [at] gmail.com
 
-university email
+university email emelie.vandevreken [at] ed.ac.uk
 
 linkedin
 
@@ -20,4 +20,4 @@ twitter
 
 instagram
 
-?[][url({{ site.github.url }}/assets/img/objects/information-telephone.jpg)]
+?[][{{ site.github.url }}/assets/img/objects/information-telephone.jpg]
