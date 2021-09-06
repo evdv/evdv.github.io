@@ -7,8 +7,8 @@
   position: relative;
 }
 
-.featured-post:hover .featured-image {
-  filter: blur(4px);
+.featured-post:hover {
+  opacity: 0.1;
 }
 
 .featured-post h2 {
