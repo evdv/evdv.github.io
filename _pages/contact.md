@@ -4,9 +4,9 @@ title: I would love to hear from you!
 permalink: /contact
 ---
 
-Please feel free to get in touch with any questions, comments, or recommendations at:
-
 <img style="float: right; margin: 0px 0px 15px 15px;" src="{{ site.github.url }}/assets/img/objects/information-telephone.jpg" width="40%" />
+
+Please feel free to get in touch with any questions, comments, or recommendations at:
 
 <a href="mailto:emelie.vdvreken@gmail.com" id="textlinks"><i class="fa fa-envelope" aria-hidden="true"></i> emelie.vdvreken [at] gmail.com</a>
 
@@ -17,6 +17,7 @@ Please feel free to get in touch with any questions, comments, or recommendation
 <a href="https://twitter.com/EmelieVDV" id="textlinks"><i class="fa fa-twitter" aria-hidden="true"></i> EmelieVDV</a>
 
 <a href="https://instagram.com/emelievdv" id="textlinks"><i class="fa fa-instagram" aria-hidden="true"></i> emelievdv</a>
+
 
 
 You can also find me at [the Bayes Centre in Edinburgh (UK)](https://goo.gl/maps/kxVQTmeRVQHTD56B6){:class="textlinks"}.
