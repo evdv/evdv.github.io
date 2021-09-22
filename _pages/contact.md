@@ -6,6 +6,8 @@ permalink: /contact
 
 Please feel free to get in touch with any questions, comments, or recommendations at:
 
+<img style="float: right; margin: 0px 0px 15px 15px;" src="{{ site.github.url }}/assets/img/objects/information-telephone.jpg" width="40%" />
+
 <a href="mailto:emelie.vdvreken@gmail.com" id="textlinks"><i class="fa fa-envelope" aria-hidden="true"></i> emelie.vdvreken [at] gmail.com</a>
 
 <a href="mailto:emelie.vandevreken@ed.ac.uk" id="textlinks"><i class="fa fa-envelope" aria-hidden="true"></i> emelie.vandevreken [at] ed.ac.uk</a>
@@ -16,7 +18,6 @@ Please feel free to get in touch with any questions, comments, or recommendation
 
 <a href="https://instagram.com/emelievdv" id="textlinks"><i class="fa fa-instagram" aria-hidden="true"></i> emelievdv</a>
 
-<img style="float: right; margin: 0px 0px 15px 15px;" src="{{ site.github.url }}/assets/img/objects/information-telephone.jpg" width="40%" />
 
 You can also find me at [the Bayes Centre in Edinburgh (UK)](https://goo.gl/maps/kxVQTmeRVQHTD56B6){:class="textlinks"}.
 
