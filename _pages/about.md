@@ -4,7 +4,7 @@ title: About Me
 permalink: /about
 ---
 
-Hi! I'm Emelie (pronunciation /'ɛməli:/, [howto](https://www.howtopronounce.com/emelie)), pronouns she/her.
+Hi! I'm Emelie (pronunciation /'ɛməli:/, [howto](https://www.howtopronounce.com/emelie){:class="textlinks"}), pronouns she/her.
 
 My name comes from the Flemish part of Belgium, which is where I grew up.
 So far, I have also lived in Cambridge, York, London, and Edinburgh, all in the UK, but I look forward to exploring other parts of the world.
@@ -15,4 +15,4 @@ My favourite meal is lunch, but I hate surprise raisins :(
 
 Other things I'm passionate about are feminism, mental health, nature rewilding, sleep, the power of silly comedy, and the Eurovision Song Contest!
 
-For a full curriculum vitae with more professional details, please see [my CV page](curriculum-vitae.md).
+For a full curriculum vitae with more professional details, please see [my CV page](curriculum-vitae.md){:class="textlinks"}.

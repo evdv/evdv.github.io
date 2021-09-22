@@ -18,4 +18,4 @@ One practical application
 
 ## Supervisors
 
-My supervisors are [Dr. Korin Richmond](https://homepages.inf.ed.ac.uk/korin/site/home/) and [Dr. Catherine Lai](https://homepages.inf.ed.ac.uk/clai/), both at the University of Edinburgh
+My supervisors are [Dr. Korin Richmond](https://homepages.inf.ed.ac.uk/korin/site/home/){:class="textlinks"} and [Dr. Catherine Lai](https://homepages.inf.ed.ac.uk/clai/){:class="textlinks"}, both at the University of Edinburgh
