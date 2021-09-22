@@ -13,4 +13,4 @@ In my spare time I love to dance, sing, playing piano, learning a language, list
 My favourite meal is lunch, but I hate surprise raisins :(
 Other things I'm passionate about are feminism, mental health, nature rewilding, sleep, the power of silly comedy, and the Eurovision Song Contest.
 
-For a full curriculum vitae with more professional details, please see CV (insert link).
+For a full curriculum vitae with more professional details, please see [my CV page](curriculum-vitae.md).
