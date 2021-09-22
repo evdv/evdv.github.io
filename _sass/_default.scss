@@ -19,6 +19,10 @@
 .content-wrapper h1 {
   margin: 20px 0px 5px;
 }
+
+.url:hover {
+  font-weight: bold;
+}
 @media (max-width: $container-width) {
   .container {
     width: 95vw;
