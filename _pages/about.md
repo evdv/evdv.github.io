@@ -13,6 +13,6 @@ The best part of moving around is getting to make new friends, which I really en
 In my spare time I love to dance, sing, playing piano, learning a language, listening to true crime podcasts, or finding a great TV series or documentary to dig in to.
 My favourite meal is lunch, but I hate surprise raisins :(
 
-Other things I'm passionate about are feminism, mental health, nature rewilding, sleep, the power of silly comedy, and the Eurovision Song Contest.
+Other things I'm passionate about are feminism, mental health, nature rewilding, sleep, the power of silly comedy, and the Eurovision Song Contest!
 
 For a full curriculum vitae with more professional details, please see [my CV page](curriculum-vitae.md).
