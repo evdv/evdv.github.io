@@ -4,7 +4,7 @@ title: About Me
 permalink: /about
 ---
 
-Hi! I'm Emelie (pronunciation /'ɛməli:/, <a href="https://www.howtopronounce.com/emelie" id="textlinks">howto</a>), pronouns she/her.
+Hi! I'm Emelie (pronunciation, <a href="https://www.howtopronounce.com/emelie" id="textlinks">/'ɛməli:/</a>), pronouns she/her.
 
 My name comes from the Flemish part of Belgium, which is where I grew up.
 So far, I have also lived in Cambridge, York, London, and Edinburgh, all in the UK, but I look forward to exploring other parts of the world.
