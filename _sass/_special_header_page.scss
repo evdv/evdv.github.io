@@ -7,11 +7,19 @@
   text-align: left;
 }
 
+.special-header {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
 .headertitle {
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  font-weight: bold;
+  font-size: large;
 }
 
 #textlinks {
