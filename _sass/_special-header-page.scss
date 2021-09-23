@@ -29,7 +29,7 @@
   left: 50%;
   //transform: translate(-50%, -50%);
   font-weight: bold;
-  font-size: large;
+  font-size: 2rem;
 }
 
 .round-image {
@@ -40,6 +40,7 @@
   width: 10%;
   height: 10%;
   border-radius: 50%;
+  border: 5px solid $brand-color;
 }
 
 #textlinks {
