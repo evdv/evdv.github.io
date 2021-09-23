@@ -3,6 +3,7 @@ layout: special-header-page
 title: About Me
 permalink: /about
 header-image: dark/dark-loch.jpg
+round-image: me/selfie.jpg
 ---
 
 Hi! I'm Emelie (pronunciation <a href="https://www.howtopronounce.com/emelie" id="textlinks">/'ɛməli:/</a>), pronouns she/her.
