@@ -36,13 +36,14 @@
   color: white;
   top: 0;
   left: 0;
+  width: $container-width;
 }
 
 .header-background {
   position: relative;
   top: 0;
   left: 0;
-  width: $container-width - 10px;
+  width: $container-width;
   height: auto;
   margin: 10px auto 10px;
 }
@@ -50,7 +51,7 @@
 .headertitle {
   position: absolute;
   top: 35%;
-  left: 30%;
+  left: 20%;
   transform: translate(-50%, -50%);
   font-weight: bold;
   font-size: 3rem;
@@ -58,11 +59,12 @@
 }
 
 .round-image {
-  position:absolute;
+  position: absolute;
   top: 60%;
-  left: 30%;
+  left: 40%;
   z-index: 2;
   width: 20%;
+  height: automatic;
   border-radius: 50%;
   border: 6px solid $brand-color;
 }

@@ -1,6 +1,6 @@
 ---
 layout: special-header-page
-title: About Moi
+title: About Me
 permalink: /about
 header-image: dark/dark-loch.jpg
 round-image: me/selfie.jpg
