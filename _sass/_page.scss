@@ -42,7 +42,7 @@
   position: relative;
   top: 0;
   left: 0;
-  width: $container-width - 100px;
+  width: $container-width - 10px;
   height: auto;
   margin: 10px auto 10px;
 }
@@ -59,11 +59,11 @@
 
 .round-image {
   position:absolute;
-  top: 70%;
-  left: 50%;
+  top: 60%;
+  left: 20%;
   z-index: 2;
-  width: 30%;
-  height: 50%;
+  width: 20%;
+  height: 25%;
   border-radius: 50%;
   border: 6px solid $brand-color;
 }
