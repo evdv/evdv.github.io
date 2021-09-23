@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: special-header-page
 title: About Me
 permalink: /about
+header-image: dark/dark-loch.jpg
 ---
 
 Hi! I'm Emelie (pronunciation, <a href="https://www.howtopronounce.com/emelie" id="textlinks">/'ɛməli:/</a>), pronouns she/her.
