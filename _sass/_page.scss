@@ -42,7 +42,7 @@
   position: relative;
   top: 0;
   left: 0;
-  width: 100%;
+  width: $container-width - 200px;
   height: auto;
 }
 
@@ -52,7 +52,7 @@
   left: 50%;
   //transform: translate(-50%, -50%);
   font-weight: bold;
-  font-size: 2rem;
+  font-size: 3rem;
   background-color: rgba(255, 255, 255, 0.0);
 }
 
