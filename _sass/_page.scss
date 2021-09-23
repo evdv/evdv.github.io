@@ -42,7 +42,7 @@
   position: relative;
   top: 0;
   left: 0;
-  width: $container-width - 200px;
+  width: $container-width - 100px;
   height: auto;
 }
 
@@ -52,7 +52,7 @@
   left: 50%;
   //transform: translate(-50%, -50%);
   font-weight: bold;
-  font-size: 5rem;
+  font-size: 4rem;
   background-color: rgba(255, 255, 255, 0.0);
 }
 
@@ -61,8 +61,8 @@
   top: 70%;
   left: 50%;
   z-index: 2;
-  width: 50%;
-  height: 60%;
+  width: 30%;
+  height: 50%;
   border-radius: 50%;
   border: 6px solid $brand-color;
 }
