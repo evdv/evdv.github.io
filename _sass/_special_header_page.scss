@@ -11,6 +11,16 @@
   position: relative;
   text-align: center;
   color: white;
+  top: 0;
+  left: 0;
+}
+
+.header-background {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: auto;
 }
 
 .headertitle {
@@ -20,6 +30,14 @@
   transform: translate(-50%, -50%);
   font-weight: bold;
   font-size: large;
+}
+
+.round-image {
+  position:absolute;
+  top: 25px;
+  left: 25px;
+  z-index: 2;
+  border-radius: 50%;
 }
 
 #textlinks {
